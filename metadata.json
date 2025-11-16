@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Shayri Sangam",
+  "description": "A web application that generates beautiful Shayri (poetry) in Hindi and Marathi using the Gemini API. Users can select a language, enter a topic, and receive a unique, AI-generated poem.",
+  "requestFramePermissions": []
+}
